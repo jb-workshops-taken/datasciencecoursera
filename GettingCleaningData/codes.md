@@ -26,69 +26,69 @@ Fields are listed below.  Meanings are based on the meanings in the original dat
 |subject|Which test subject performed the action (person)|
 |activityname|Name of the activity the subject was performing|
 |activityid|ID number of the activity the subject was performing. (All remaining values are means per subject per activity.)|
-|mean.tBodyAcc.mean.X|"Mean of the ""time domain signal, body accelaration, mean X"" values"|
-|mean.tBodyAcc.mean.Y|"Mean of the ""time domain signal, body accelaration, mean Y"" values"|
-|mean.tBodyAcc.mean.Z|"Mean of the ""time domain signal, body accelaration, mean Z"" values"|
-|mean.tGravityAcc.mean.X|"Mean of the ""time domain signal, gravity accelaration, mean X"" values"|
-|mean.tGravityAcc.mean.Y|"Mean of the ""time domain signal, gravity accelaration, mean Y"" values"|
-|mean.tGravityAcc.mean.Z|"Mean of the ""time domain signal, gravity accelaration, mean Z"" values"|
-|mean.tBodyAccJerk.mean.X|"Mean of the ""time domain signal, body accelaration jerk calculation, mean X"" values"|
-|mean.tBodyAccJerk.mean.Y|"Mean of the ""time domain signal, body accelaration jerk calculation, mean Y"" values"|
-|mean.tBodyAccJerk.mean.Z|"Mean of the ""time domain signal, body accelaration jerk calculation, mean Z"" values"|
-|mean.tBodyGyro.mean.X|"Mean of the ""time domain signal, body gyroscope, mean X"" values"|
-|mean.tBodyGyro.mean.Y|"Mean of the ""time domain signal, body gyroscope, mean Y"" values"|
-|mean.tBodyGyro.mean.Z|"Mean of the ""time domain signal, body gyroscope, mean Z"" values"|
-|mean.tBodyGyroJerk.mean.X|"Mean of the ""time domain signal, body gyroscope jerk calculation, mean X"" values"|
-|mean.tBodyGyroJerk.mean.Y|"Mean of the ""time domain signal, body gyroscope jerk calculation, mean Y"" values"|
-|mean.tBodyGyroJerk.mean.Z|"Mean of the ""time domain signal, body gyroscope jerk calculation, mean Z"" values"|
-|mean.tBodyAccMag.mean|"Mean of the ""time domain signal, body accelaration magnitude mean"" values"|
-|mean.tGravityAccMag.mean|"Mean of the ""time domain signal, gravity accelaration magnitude mean"" values"|
-|mean.tBodyAccJerkMag.mean|"Mean of the ""time domain signal, body accelaration jerk magnitude mean"" values"|
-|mean.tBodyGyroMag.mean|"Mean of the ""time domain signal, body gyroscope magnitude mean"" values"|
-|mean.tBodyGyroJerkMag.mean|"Mean of the ""time domain signal, body gyroscope jerk magnitude mean"" values"|
-|mean.fBodyAcc.mean.X|"Mean of the ""frequency domain signal, body accelaration, mean X"" values"|
-|mean.fBodyAcc.mean.Y|"Mean of the ""frequency domain signal, body accelaration, mean Y"" values"|
-|mean.fBodyAcc.mean.Z|"Mean of the ""frequency domain signal, body accelaration, mean Z"" values"|
-|mean.fBodyAccJerk.mean.X|"Mean of the ""frequency domain signal, body accelaration jerk calculation, mean X"" values"|
-|mean.fBodyAccJerk.mean.Y|"Mean of the ""frequency domain signal, body accelaration jerk calculation, mean Y"" values"|
-|mean.fBodyAccJerk.mean.Z|"Mean of the ""frequency domain signal, body accelaration jerk calculation, mean Z"" values"|
-|mean.fBodyGyro.mean.X|"Mean of the ""frequency domain signal, body gyroscope, mean X"" values"|
-|mean.fBodyGyro.mean.Y|"Mean of the ""frequency domain signal, body gyroscope, mean Y"" values"|
-|mean.fBodyGyro.mean.Z|"Mean of the ""frequency domain signal, body gyroscope, mean Z"" values"|
-|mean.fBodyAccMag.mean|"Mean of the ""frequency domain signal, body accelaration magnitude, mean"" values"|
-|mean.fBodyAccJerkMag.mean|"Mean of the ""frequency domain signal, body accelaration jerk calculation magnitude, mean"" values"|
-|mean.fBodyGyroMag.mean|"Mean of the ""frequency domain signal, body gyroscope magnitude, mean"" values"|
-|mean.fBodyGyroJerkMag.mean|"Mean of the ""frequency domain signal, body gyroscope jerk calculation magnitude, mean"" values"|
-|mean.tBodyAcc.std.X|"Mean of the ""time domain signal, body accelaration standard deviation X"" values"|
-|mean.tBodyAcc.std.Y|"Mean of the ""time domain signal, body accelaration standard deviation Y"" values"|
-|mean.tBodyAcc.std.Z|"Mean of the ""time domain signal, body accelaration standard deviation Z"" values"|
-|mean.tGravityAcc.std.X|"Mean of the ""time domain signal, gravity accelaration standard deviation X"" values"|
-|mean.tGravityAcc.std.Y|"Mean of the ""time domain signal, gravity accelaration standard deviation Y"" values"|
-|mean.tGravityAcc.std.Z|"Mean of the ""time domain signal, gravity accelaration standard deviation Z"" values"|
-|mean.tBodyAccJerk.std.X|"Mean of the ""time domain signal, body accelaration jerk calculation standard deviation X"" values"|
-|mean.tBodyAccJerk.std.Y|"Mean of the ""time domain signal, body accelaration jerk calculation standard deviation Y"" values"|
-|mean.tBodyAccJerk.std.Z|"Mean of the ""time domain signal, body accelaration jerk calculation standard deviation Z"" values"|
-|mean.tBodyGyro.std.X|"Mean of the ""time domain signal, body gyroscope standard deviation X"" values"|
-|mean.tBodyGyro.std.Y|"Mean of the ""time domain signal, body gyroscope standard deviation Y"" values"|
-|mean.tBodyGyro.std.Z|"Mean of the ""time domain signal, body gyroscope standard deviation Z"" values"|
-|mean.tBodyGyroJerk.std.X|"Mean of the ""time domain signal, body gyroscope jerk calculation standard deviation X"" values"|
-|mean.tBodyGyroJerk.std.Y|"Mean of the ""time domain signal, body gyroscope jerk calculation  standard deviation Y"" values"|
-|mean.tBodyGyroJerk.std.Z|"Mean of the ""time domain signal, body gyroscope jerk calculation  standard deviation Z"" values"|
-|mean.tBodyAccMag.std|"Mean of the ""time domain signal, body accelaration magnitude standard deviation"" values"|
-|mean.tGravityAccMag.std|"Mean of the ""time domain signal, gravity accelaration magnitude standard deviation"" values"|
-|mean.tBodyAccJerkMag.std|"Mean of the ""time domain signal, body accelaration jerk calculation magnitude standard deviation"" values"|
-|mean.tBodyGyroMag.std|"Mean of the ""time domain signal, body gyroscope magnitude standard deviation"" values"|
-|mean.tBodyGyroJerkMag.std|"Mean of the ""time domain signal, body gyroscope jerk calculation magnitude standard deviation"" values"|
-|mean.fBodyAcc.std.X|"Mean of the ""frequency domain signal, body accelaration standard deviation X"" values"|
-|mean.fBodyAcc.std.Y|"Mean of the ""frequency domain signal, body accelaration standard deviation Y"" values"|
-|mean.fBodyAcc.std.Z|"Mean of the ""frequency domain signal, body accelaration standard deviation Z"" values"|
-|mean.fBodyAccJerk.std.X|"Mean of the ""frequency domain signal, body accelaration jerk calculation standard deviation X"" values"|
-|mean.fBodyAccJerk.std.Y|"Mean of the ""frequency domain signal, body accelaration jerk calculation standard deviation Y"" values"|
-|mean.fBodyAccJerk.std.Z|"Mean of the ""frequency domain signal, body accelaration jerk calculation standard deviation Z"" values"|
-|mean.fBodyGyro.std.X|"Mean of the ""frequency domain signal, body gyroscope standard deviation X"" values"|
-|mean.fBodyGyro.std.Y|"Mean of the ""frequency domain signal, body gyroscope standard deviation Y"" values"|
-|mean.fBodyGyro.std.Z|"Mean of the ""frequency domain signal, body gyroscope standard deviation Z"" values"|
-|mean.fBodyAccMag.std|"Mean of the ""frequency domain signal, body accelaration magnitude, standard deviation"" values"|
-|mean.fBodyAccJerkMag.std|"Mean of the ""frequency domain signal, body accelaration jerk calculation magnitude, standard deviation"" values"|
-|mean.fBodyGyroMag.std|"Mean of the ""frequency domain signal, body gyroscope magnitude standard deviation"" values"|
-|mean.fBodyGyroJerkMag.std|"Mean of the ""frequency domain signal, body gyroscope jerk calculation magnitude standard deviation"" values"|
+|mean.tBodyAcc.mean.X|Mean of the "time domain signal, body accelaration, mean X" values|
+|mean.tBodyAcc.mean.Y|Mean of the "time domain signal, body accelaration, mean Y" values|
+|mean.tBodyAcc.mean.Z|Mean of the "time domain signal, body accelaration, mean Z" values|
+|mean.tGravityAcc.mean.X|Mean of the "time domain signal, gravity accelaration, mean X" values|
+|mean.tGravityAcc.mean.Y|Mean of the "time domain signal, gravity accelaration, mean Y" values|
+|mean.tGravityAcc.mean.Z|Mean of the "time domain signal, gravity accelaration, mean Z" values|
+|mean.tBodyAccJerk.mean.X|Mean of the "time domain signal, body accelaration jerk calculation, mean X" values|
+|mean.tBodyAccJerk.mean.Y|Mean of the "time domain signal, body accelaration jerk calculation, mean Y" values|
+|mean.tBodyAccJerk.mean.Z|Mean of the "time domain signal, body accelaration jerk calculation, mean Z" values|
+|mean.tBodyGyro.mean.X|Mean of the "time domain signal, body gyroscope, mean X" values|
+|mean.tBodyGyro.mean.Y|Mean of the "time domain signal, body gyroscope, mean Y" values|
+|mean.tBodyGyro.mean.Z|Mean of the "time domain signal, body gyroscope, mean Z" values|
+|mean.tBodyGyroJerk.mean.X|Mean of the "time domain signal, body gyroscope jerk calculation, mean X" values|
+|mean.tBodyGyroJerk.mean.Y|Mean of the "time domain signal, body gyroscope jerk calculation, mean Y" values|
+|mean.tBodyGyroJerk.mean.Z|Mean of the "time domain signal, body gyroscope jerk calculation, mean Z" values|
+|mean.tBodyAccMag.mean|Mean of the "time domain signal, body accelaration magnitude mean" values|
+|mean.tGravityAccMag.mean|Mean of the "time domain signal, gravity accelaration magnitude mean" values|
+|mean.tBodyAccJerkMag.mean|Mean of the "time domain signal, body accelaration jerk magnitude mean" values|
+|mean.tBodyGyroMag.mean|Mean of the "time domain signal, body gyroscope magnitude mean" values|
+|mean.tBodyGyroJerkMag.mean|Mean of the "time domain signal, body gyroscope jerk magnitude mean" values|
+|mean.fBodyAcc.mean.X|Mean of the "frequency domain signal, body accelaration, mean X" values|
+|mean.fBodyAcc.mean.Y|Mean of the "frequency domain signal, body accelaration, mean Y" values|
+|mean.fBodyAcc.mean.Z|Mean of the "frequency domain signal, body accelaration, mean Z" values|
+|mean.fBodyAccJerk.mean.X|Mean of the "frequency domain signal, body accelaration jerk calculation, mean X" values|
+|mean.fBodyAccJerk.mean.Y|Mean of the "frequency domain signal, body accelaration jerk calculation, mean Y" values|
+|mean.fBodyAccJerk.mean.Z|Mean of the "frequency domain signal, body accelaration jerk calculation, mean Z" values|
+|mean.fBodyGyro.mean.X|Mean of the "frequency domain signal, body gyroscope, mean X" values|
+|mean.fBodyGyro.mean.Y|Mean of the "frequency domain signal, body gyroscope, mean Y" values|
+|mean.fBodyGyro.mean.Z|Mean of the "frequency domain signal, body gyroscope, mean Z" values|
+|mean.fBodyAccMag.mean|Mean of the "frequency domain signal, body accelaration magnitude, mean" values|
+|mean.fBodyAccJerkMag.mean|Mean of the "frequency domain signal, body accelaration jerk calculation magnitude, mean" values|
+|mean.fBodyGyroMag.mean|Mean of the "frequency domain signal, body gyroscope magnitude, mean" values|
+|mean.fBodyGyroJerkMag.mean|Mean of the "frequency domain signal, body gyroscope jerk calculation magnitude, mean" values|
+|mean.tBodyAcc.std.X|Mean of the "time domain signal, body accelaration standard deviation X" values|
+|mean.tBodyAcc.std.Y|Mean of the "time domain signal, body accelaration standard deviation Y" values|
+|mean.tBodyAcc.std.Z|Mean of the "time domain signal, body accelaration standard deviation Z" values|
+|mean.tGravityAcc.std.X|Mean of the "time domain signal, gravity accelaration standard deviation X" values|
+|mean.tGravityAcc.std.Y|Mean of the "time domain signal, gravity accelaration standard deviation Y" values|
+|mean.tGravityAcc.std.Z|Mean of the "time domain signal, gravity accelaration standard deviation Z" values|
+|mean.tBodyAccJerk.std.X|Mean of the "time domain signal, body accelaration jerk calculation standard deviation X" values|
+|mean.tBodyAccJerk.std.Y|Mean of the "time domain signal, body accelaration jerk calculation standard deviation Y" values|
+|mean.tBodyAccJerk.std.Z|Mean of the "time domain signal, body accelaration jerk calculation standard deviation Z" values|
+|mean.tBodyGyro.std.X|Mean of the "time domain signal, body gyroscope standard deviation X" values|
+|mean.tBodyGyro.std.Y|Mean of the "time domain signal, body gyroscope standard deviation Y" values|
+|mean.tBodyGyro.std.Z|Mean of the "time domain signal, body gyroscope standard deviation Z" values|
+|mean.tBodyGyroJerk.std.X|Mean of the "time domain signal, body gyroscope jerk calculation standard deviation X" values|
+|mean.tBodyGyroJerk.std.Y|Mean of the "time domain signal, body gyroscope jerk calculation  standard deviation Y" values|
+|mean.tBodyGyroJerk.std.Z|Mean of the "time domain signal, body gyroscope jerk calculation  standard deviation Z" values|
+|mean.tBodyAccMag.std|Mean of the "time domain signal, body accelaration magnitude standard deviation" values|
+|mean.tGravityAccMag.std|Mean of the "time domain signal, gravity accelaration magnitude standard deviation" values|
+|mean.tBodyAccJerkMag.std|Mean of the "time domain signal, body accelaration jerk calculation magnitude standard deviation" values|
+|mean.tBodyGyroMag.std|Mean of the "time domain signal, body gyroscope magnitude standard deviation" values|
+|mean.tBodyGyroJerkMag.std|Mean of the "time domain signal, body gyroscope jerk calculation magnitude standard deviation" values|
+|mean.fBodyAcc.std.X|Mean of the "frequency domain signal, body accelaration standard deviation X" values|
+|mean.fBodyAcc.std.Y|Mean of the "frequency domain signal, body accelaration standard deviation Y" values|
+|mean.fBodyAcc.std.Z|Mean of the "frequency domain signal, body accelaration standard deviation Z" values|
+|mean.fBodyAccJerk.std.X|Mean of the "frequency domain signal, body accelaration jerk calculation standard deviation X" values|
+|mean.fBodyAccJerk.std.Y|Mean of the "frequency domain signal, body accelaration jerk calculation standard deviation Y" values|
+|mean.fBodyAccJerk.std.Z|Mean of the "frequency domain signal, body accelaration jerk calculation standard deviation Z" values|
+|mean.fBodyGyro.std.X|Mean of the "frequency domain signal, body gyroscope standard deviation X" values|
+|mean.fBodyGyro.std.Y|Mean of the "frequency domain signal, body gyroscope standard deviation Y" values|
+|mean.fBodyGyro.std.Z|Mean of the "frequency domain signal, body gyroscope standard deviation Z" values|
+|mean.fBodyAccMag.std|Mean of the "frequency domain signal, body accelaration magnitude, standard deviation" values|
+|mean.fBodyAccJerkMag.std|Mean of the "frequency domain signal, body accelaration jerk calculation magnitude, standard deviation" values|
+|mean.fBodyGyroMag.std|Mean of the "frequency domain signal, body gyroscope magnitude standard deviation" values|
+|mean.fBodyGyroJerkMag.std|Mean of the "frequency domain signal, body gyroscope jerk calculation magnitude standard deviation" values|
