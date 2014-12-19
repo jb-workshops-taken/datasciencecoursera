@@ -1,6 +1,6 @@
 Cleanup Process in run_analysis.R
 
-0. (In fetchdata.R) Retrieves zip file, unzips it, sets working directory.  Assuming you already have the data, and you have already set your working directory inside the UHC directory, you can skip this step.  Made as a separate script since download only has to be done once and it's slow.
+0. (In fetchdata.R) Retrieves zip file, unzips it, sets working directory.  Assuming you already have the data, and you have already set your working directory inside the UCI HAR Dataset directory, you can skip this step.  Made as a separate script since download only has to be done once and it's slow.
 
 1. Read in all data files.  Nothing tricky here.
 
