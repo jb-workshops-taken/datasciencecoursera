@@ -8,7 +8,7 @@ Preparation
 
 Execution
 
-1. source run_analysis.R
+1. source("run_analysis.R")
 
 Output
 
